@@ -45,7 +45,7 @@ c:\xampp\htdocs\
 │       └── database.php       # Konfigurasi database
 │
 └── klien\                     # Folder Frontend
-    └── index.html            # Interface pengguna
+    └── index.php            # Interface pengguna
 ```
 
 ## 4. Implementasi Project
