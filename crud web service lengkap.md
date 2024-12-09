@@ -1,4 +1,4 @@
-# Modul Pembelajaran: Sistem Manajemen Buku Berbasis Web
+# Modul Pembelajaran: Sistem Manajemen Buku Berbasis Web Service
 
 ## Daftar Isi
 1. Pendahuluan
@@ -515,3 +515,5 @@ Kriteria penilaian:
    - XAMPP: https://www.apachefriends.org/
    - Postman: https://www.postman.com/
    - VSCode: https://code.visualstudio.com/
+  
+  [Pasar Jateng](https://pasarjateng.com) 
