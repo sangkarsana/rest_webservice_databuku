@@ -190,9 +190,9 @@ switch ($method) {
 ?>
 ```
 
-### C. Frontend Implementation (c:\xampp\htdocs\klien\index.html)
+### C. Frontend Implementation (c:\xampp\htdocs\klien\index.php)
 
-```html
+```php
 <!DOCTYPE html>
 <html lang="en">
 <head>
